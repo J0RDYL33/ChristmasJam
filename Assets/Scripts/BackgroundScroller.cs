@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BackgroundScroller : MonoBehaviour
 {
+    public float moverAmount;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,7 +16,7 @@ public class BackgroundScroller : MonoBehaviour
     {
         Vector2 newPos;
         newPos = transform.position;
-        newPos.x -= 0.01f;
+        newPos.x += moverAmount;
         transform.position = newPos;
     }
 }

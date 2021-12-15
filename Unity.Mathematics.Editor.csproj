@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{24D07966-8233-EAA0-B000-D80C1458D61B}</ProjectGuid>
+    <ProjectGuid>{5BBAED94-5894-09AF-A76E-0AE3CDE9B211}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Mathematics.Editor</AssemblyName>
@@ -698,23 +698,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{FE656D40-2618-E491-DCB5-5DD355D96E6F}</Project>
+      <Project>{23A07BDF-B16D-AF3A-76AA-C8D4B5C1F742}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{D09DE3F9-8540-73B3-1F6F-E4BF505E17AD}</Project>
+      <Project>{C8094589-975B-2F7F-0C23-91789C0D5CDD}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{F1AF27FD-2305-8E2C-CE6C-2087D87D98AA}</Project>
+      <Project>{EEED84BA-F2DC-A6E6-6EED-1FB9E734B897}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{2D6DD4BB-BA93-B4EA-CED7-842EBF756D7D}</Project>
+      <Project>{3A47F5D2-B5EC-EE7F-98E5-00F4FC5393FA}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{E2ED948E-E3A9-F823-BC3B-EAEFEB143575}</Project>
+      <Project>{86243A4B-9350-11DF-9649-F91F8D1F2923}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>

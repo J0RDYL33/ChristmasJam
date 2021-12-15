@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{53D35783-AE4B-03DE-9147-05F4E843D9A4}</ProjectGuid>
+    <ProjectGuid>{FCA64868-8AA6-6C3F-345F-20E1AEAF6548}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.2D.Tilemap.Extras.Editor</AssemblyName>
@@ -706,27 +706,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Tilemap.Extras.csproj">
-      <Project>{255E1A42-498B-9122-F145-2107592DB06A}</Project>
+      <Project>{B03BE8EB-4FB6-24AF-E8B3-3505F4F33287}</Project>
       <Name>Unity.2D.Tilemap.Extras</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
-      <Project>{8333A626-FD31-4EC4-0CAB-6797B91954A2}</Project>
+      <Project>{0E3F57BA-A498-F902-B332-8682A92E63AE}</Project>
       <Name>Unity.2D.Tilemap.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{D09DE3F9-8540-73B3-1F6F-E4BF505E17AD}</Project>
+      <Project>{C8094589-975B-2F7F-0C23-91789C0D5CDD}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{F1AF27FD-2305-8E2C-CE6C-2087D87D98AA}</Project>
+      <Project>{EEED84BA-F2DC-A6E6-6EED-1FB9E734B897}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{2D6DD4BB-BA93-B4EA-CED7-842EBF756D7D}</Project>
+      <Project>{3A47F5D2-B5EC-EE7F-98E5-00F4FC5393FA}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{E2ED948E-E3A9-F823-BC3B-EAEFEB143575}</Project>
+      <Project>{86243A4B-9350-11DF-9649-F91F8D1F2923}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
